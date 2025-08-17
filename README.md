@@ -63,3 +63,6 @@ In conclusion, this Recommendation System project gave me an in-depth understand
 Working on Jupyter Notebook with Python libraries like pandas, scikit-learn, and surprise helped me implement the system efficiently. This task not only enhanced my technical skills in machine learning but also improved my problem-solving ability by showing me how algorithms can create user-focused solutions.
 
 Overall, the project gave me confidence to apply recommendation systems to different domains and highlighted their importance in improving user experience across industries.
+
+##OUTPUT:
+<img width="1816" height="943" alt="Image" src="https://github.com/user-attachments/assets/6f4e1b7b-8e80-48fc-a2b1-06eac52ac212" />

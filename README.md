@@ -1,18 +1,5 @@
 # RECOMMENDATION-SYSTEM
-
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: RIYA JOSHI
-
-*INTERN ID*: CT04DZ615
-
-*DOMAIN*: MACHINE LEARNING
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
-
-##Description of the Task
+## Description of the Task
 
 The task required me to build a recommendation model using collaborative filtering or matrix factorization techniques. A recommendation system works by analyzing user-item interactions (for example, a user watching a movie or purchasing a product) and then predicting what other items the user might like.
 

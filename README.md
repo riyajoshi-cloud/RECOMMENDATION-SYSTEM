@@ -31,19 +31,19 @@ Applicability of the Task
 
 Recommendation systems are one of the most impactful applications of machine learning, and this task showed me how important they are in everyday life. Some common applications include:
 
-E-commerce – Suggesting products based on browsing or purchase history (e.g., Amazon).
+1. E-commerce – Suggesting products based on browsing or purchase history (e.g., Amazon).
 
-Entertainment – Recommending movies, TV shows, or songs (e.g., Netflix, Spotify, YouTube).
+2. Entertainment – Recommending movies, TV shows, or songs (e.g., Netflix, Spotify, YouTube).
 
-Social Media – Suggesting friends, pages, or posts based on interactions.
+3. Social Media – Suggesting friends, pages, or posts based on interactions.
 
-Education – Personalized learning platforms recommending courses or study material.
+4. Education – Personalized learning platforms recommending courses or study material.
 
-Healthcare – Suggesting treatments or medicines based on patient history and similarities with other patients.
+5. Healthcare – Suggesting treatments or medicines based on patient history and similarities with other patients.
 
 The task also made me aware of some challenges in recommendation systems, such as the cold start problem (when new users or items have no data) and scalability issues with large datasets. I learned that techniques like hybrid recommendation systems (combining content-based and collaborative approaches) are often used to overcome these limitations.
 
-Conclusion
+Conclusion :
 
 In conclusion, this Recommendation System project gave me an in-depth understanding of how personalization works in real-world platforms. I learned how to preprocess user-item interaction data, build a collaborative filtering model, use matrix factorization, and evaluate predictions using error metrics.
 

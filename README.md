@@ -21,13 +21,13 @@ Model Training and Prediction – Using SVD, the system was able to learn latent
 
 Evaluation – To measure the accuracy of recommendations, I used error metrics such as Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) between predicted ratings and actual ratings. A lower error indicated a better recommendation performance.
 
-Editor / Platform Used
+Editor / Platform Used :
 
 For this implementation, I used Jupyter Notebook as my development platform. Jupyter Notebook was very useful for step-by-step execution, visualizing results, and documenting the workflow.
 
 In terms of libraries, I used pandas and numpy for handling data, scikit-learn for splitting datasets and evaluation, and surprise library (scikit-surprise) for building collaborative filtering models. Additionally, matplotlib was used to visualize rating distributions and recommendation patterns.
 
-Applicability of the Task
+Applicability of the Task :
 
 Recommendation systems are one of the most impactful applications of machine learning, and this task showed me how important they are in everyday life. Some common applications include:
 
